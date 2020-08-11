@@ -1,2 +1,2 @@
 # cookiecutter-test
-A cookiecutter template to test cruft change
+A cookiecutter template to test cruft changes
