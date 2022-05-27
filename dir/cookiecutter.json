@@ -1,3 +1,5 @@
 {
-  "project": "test"
+  "project": "test",
+  "input": "some-input",
+  "_private_variable": "1.0"
 }
