@@ -1,5 +1,6 @@
 {
   "project": "test",
   "input": "some-input",
-  "_private_variable": "1.0"
+  "new_input": "new-input-added",
+  "_private_variable": "2.0"
 }
