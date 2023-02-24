@@ -1,3 +1,3 @@
 # Test file
 
-Updated
+{{ "Updated" | add_1 }}
