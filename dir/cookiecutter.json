@@ -1,3 +1,5 @@
 {
-  "project": "test"
+  "project": "test",
+  "author_name": "test",
+  "author_email": "test@example.com"
 }

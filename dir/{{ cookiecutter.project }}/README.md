@@ -1,3 +1,3 @@
 # Test file
 
-Updated
+git init via hook
